@@ -1,3 +1,13 @@
-{
-    "saves": []
-}
+[
+    {
+        "save_id": "1781239408",
+        "timestamp": "2026-06-12 10:13:28.442145",
+        "message": "everything",
+        "files": [
+            "notgit.py",
+            "notgit_functions.py",
+            "README.md",
+            "__pycache__"
+        ]
+    }
+]
