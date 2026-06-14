@@ -17,7 +17,7 @@ Git has a steep learning curve. notgit gives you the core idea — save your pro
 
 ## Status
 
-🚧 Work in progress. `diff`, and `status` coming soon.
+🚧 Work in progress. `undo <save_id>`, `diff`, and `status` coming soon.
 
 ---
 

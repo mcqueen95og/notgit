@@ -45,4 +45,5 @@ Commands:
     notgit save "msg": Saves current directory as a snapshot into -> .notgit
     notgit undo: revives old snapshot
     notgit history: Shows all saved snapshots
-    """)
+    """)#
+# YOOOOO!!!!! hi back!
